@@ -10,7 +10,7 @@
     http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
     <mvc:annotation-driven />
-    <context:component-scan base-package="br.com.devmedia.springmvc" />
+    <context:component-scan base-package="br.com.fernandoborges.springmvc" />
 
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/views/"/>

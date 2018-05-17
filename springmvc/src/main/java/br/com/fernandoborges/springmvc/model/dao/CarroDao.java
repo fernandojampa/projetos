@@ -1,6 +1,6 @@
-package br.com.devmedia.springmvc.model.dao;
+package br.com.fernandoborges.springmvc.model.dao;
 
-import br.com.devmedia.springmvc.model.domain.Carro;
+import br.com.fernandoborges.springmvc.model.domain.Carro;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

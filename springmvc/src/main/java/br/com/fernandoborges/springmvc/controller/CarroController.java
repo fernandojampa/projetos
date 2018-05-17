@@ -1,6 +1,6 @@
-package br.com.devmedia.springmvc.controller;
+package br.com.fernandoborges.springmvc.controller;
 
-import br.com.devmedia.springmvc.model.dao.CarroDao;
+import br.com.fernandoborges.springmvc.model.dao.CarroDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

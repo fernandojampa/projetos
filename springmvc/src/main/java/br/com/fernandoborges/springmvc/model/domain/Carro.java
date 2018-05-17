@@ -1,4 +1,4 @@
-package br.com.devmedia.springmvc.model.domain;
+package br.com.fernandoborges.springmvc.model.domain;
 
 public class Carro {
 
