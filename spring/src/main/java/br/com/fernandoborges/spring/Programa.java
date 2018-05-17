@@ -1,6 +1,5 @@
-package br.com.fernando.borges;
+package br.com.fernandoborges.spring;
 
-import br.com.fernando.borges.Pessoa;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
@@ -19,5 +18,4 @@ public class Programa {
         pessoa.setIdade(32);
         System.out.println(pessoa);
     }
-
 }

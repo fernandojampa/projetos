@@ -1,7 +1,6 @@
-package br.com.fernando.borges;
+package br.com.fernandoborges.spring;
+
 import org.springframework.stereotype.Component;
-
-
 
 @Component
 public class Pessoa {
@@ -9,9 +8,8 @@ public class Pessoa {
     private String nome;
     private int idade;
 
-    public Pessoa(){
-
-        System.out.println("Construtor de pessoa iniciado");
+    public Pessoa() {
+        System.out.println("Construtor de Pessoa executado");
     }
 
     public String getNome() {
